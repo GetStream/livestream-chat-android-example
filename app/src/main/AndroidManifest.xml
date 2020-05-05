@@ -11,6 +11,11 @@
         android:theme="@style/AppTheme"
         >
 
+        <activity
+            android:name=".VideoActivity"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar"
+            />
+
         <activity android:name=".VideosListActivity">
 
             <intent-filter>

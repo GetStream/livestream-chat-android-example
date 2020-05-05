@@ -56,6 +56,7 @@ class VideosListActivity : AppCompatActivity(R.layout.activity_videos_list) {
     }
 
     private fun onVideoSelected(video: Video) {
+        startActivity(createVideoIntent(this, video))
     }
 }
 
