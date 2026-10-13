@@ -1,3 +1,5 @@
+> **This repository is archived and will be deleted.** It is no longer maintained. For a current alternative, see [Android-Samples](https://github.com/GetStream/Android-Samples).
+
 # Important
 **This repository is now archived. You can find this sample and more in the [Android Samples repository](https://github.com/GetStream/Android-Samples) instead.**
 
